@@ -137,3 +137,11 @@ chmod +x queries.sh
 ./queries.sh
 ./queries.sh
 ./queries.sh
+git remote add origin https://github.com/daniel-fomkin/psql-certification-project.git
+git branch -M main
+git push -u origin main
+git nit
+git init
+git remote add origin https://github.com/daniel-fomkin/psql-certification-project.git
+git branch -M main
+git add .
